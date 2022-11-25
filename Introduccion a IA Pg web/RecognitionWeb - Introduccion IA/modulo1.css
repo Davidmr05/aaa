@@ -1,0 +1,14 @@
+.label-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.webcam-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.webcam-container canvas {
+    width: 250;
+}
